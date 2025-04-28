@@ -15,8 +15,7 @@ const banner = (
 const navbar = (
   <Navbar
     logo={<b>Pradip Yadav</b>}
-    logoLink={"https://bhavyadang.in"}
-    projectLink="https://github.com/bhavya-dang"
+    projectLink="https://github.com/pradip-ssan/live-web-dev-class2025"
     chatLink="https://discord.gg/"
   />
 );
