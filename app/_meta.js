@@ -5,5 +5,6 @@ export default {
   "###": {
     type: "separator",
   },
+  html: "HTML",
   css: "CSS ",
 };
